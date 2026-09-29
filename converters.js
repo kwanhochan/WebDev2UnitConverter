@@ -1,4 +1,3 @@
-
 // Higher-order function
 function createConverter(fromUnit, toUnit) {
 
